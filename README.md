@@ -7,4 +7,4 @@
 # Результаты
 [Задание 1](https://github.com/greenpenguin/CalculatingAreasLibrary/tree/main/CalculatingAreasLibrary) 
 
-Задание 2
+[Задание 2](https://github.com/greenpenguin/CalculatingAreasLibrary/tree/main/SqlTask)
